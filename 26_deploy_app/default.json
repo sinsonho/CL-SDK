@@ -1,0 +1,7 @@
+{
+  "name": "default",
+  "timeout_s": 0,
+  "target_channel": 42,
+  "pulse_uA": -1.0,
+  "record_seconds": 10
+}

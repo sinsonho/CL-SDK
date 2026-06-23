@@ -1,0 +1,7 @@
+{
+  "name": "Channel Stim Example",
+  "version": "1.0.0",
+  "description": "지정한 채널에 전하 균형 자극을 보내고 10초간 기록하는 예제 (26장)",
+  "author": "신선호",
+  "config_version": 1
+}
